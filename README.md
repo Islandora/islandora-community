@@ -1,4 +1,3 @@
 # islandora-community
-Working on a reorganization for community documents -DRAFT 
 
-Work is being done in the wiki for this repository.
+This repository stores community documentation [in the wiki](https://github.com/Islandora/islandora-community/wiki)
